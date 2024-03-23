@@ -19,7 +19,6 @@
     <OptimizationPreference>Speed</OptimizationPreference>
     <IlcInstructionSet>native</IlcInstructionSet>
     <InvariantGlobalization>true</InvariantGlobalization>
-    <StripSymbols>false</StripSymbols>
     <InterceptorsPreviewNamespaces>$(InterceptorsPreviewNamespaces);U8.Generated</InterceptorsPreviewNamespaces>
   </PropertyGroup>
 
